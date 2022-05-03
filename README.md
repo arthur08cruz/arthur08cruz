@@ -14,7 +14,7 @@
 ##
 
 - 🕶 Estudante iniciante em busca de conhecimento.
-- 📚 Aluno da Gama Academy Turma 2022
+- 📚 Aluno do programa HiringCoders 3.
 
 ##
 
